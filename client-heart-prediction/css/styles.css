@@ -1,0 +1,16 @@
+.input-container .inputs input{
+    width: 100%;
+    max-width: 30rem;
+    padding: .5rem 1rem;
+    margin-top: 1rem;
+}
+
+.input-container label{
+    font-weight: 600;
+}
+
+.input-container .inputs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
